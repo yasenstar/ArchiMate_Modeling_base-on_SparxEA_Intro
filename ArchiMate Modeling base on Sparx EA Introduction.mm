@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="ArchiMate Modeling base on Sparx EA Introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1726024151411"><hook NAME="MapStyle" background="#f5f5dc">
+<node TEXT="ArchiMate Modeling base on Sparx EA Introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1726024151411"><hook NAME="MapStyle" background="#f5f5dc" zoom="0.769">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_sepia_template.mm"/>
 
 <map_styles>
@@ -90,7 +90,7 @@
 <node TEXT="11 Physical" POSITION="bottom_or_right" ID="ID_1739416995" CREATED="1726024800547" MODIFIED="1726024803343"/>
 <node TEXT="12 Layered" POSITION="bottom_or_right" ID="ID_1456861138" CREATED="1726024803485" MODIFIED="1726024806415"/>
 </node>
-<node TEXT="Motivation Viewpoint" POSITION="bottom_or_right" ID="ID_169212183" CREATED="1726024703567" MODIFIED="1726024708917">
+<node TEXT="Motivation Viewpoint" FOLDED="true" POSITION="bottom_or_right" ID="ID_169212183" CREATED="1726024703567" MODIFIED="1726024708917">
 <node TEXT="13 Stakeholder" ID="ID_1102134672" CREATED="1726024808252" MODIFIED="1726024812880"/>
 <node TEXT="14 Goal Realization" ID="ID_1004721397" CREATED="1726024813015" MODIFIED="1726024817335"/>
 <node TEXT="15 Goal Contribution" ID="ID_1982888972" CREATED="1726024828543" MODIFIED="1726024833463"/>
@@ -98,7 +98,7 @@
 <node TEXT="17 Requirements Realization" ID="ID_204484108" CREATED="1726024843782" MODIFIED="1726024849113"/>
 <node TEXT="18 Motivation" ID="ID_887924714" CREATED="1726024849266" MODIFIED="1726024852334"/>
 </node>
-<node TEXT="Strategy Viewpoint" POSITION="bottom_or_right" ID="ID_1640400395" CREATED="1726024709102" MODIFIED="1726024713360">
+<node TEXT="Strategy Viewpoint" FOLDED="true" POSITION="bottom_or_right" ID="ID_1640400395" CREATED="1726024709102" MODIFIED="1726024713360">
 <node TEXT="19 Strategy" ID="ID_425639414" CREATED="1726024857479" MODIFIED="1726024867750"/>
 <node TEXT="20 Capability Map" ID="ID_1010388978" CREATED="1726024860150" MODIFIED="1726024872375"/>
 <node TEXT="21 Resource Map" ID="ID_455959056" CREATED="1726024884870" MODIFIED="1726024888643"/>
