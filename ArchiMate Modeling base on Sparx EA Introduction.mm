@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="ArchiMate Modeling base on Sparx EA Introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1726024151411"><hook NAME="MapStyle" background="#f5f5dc" zoom="0.769">
+<node TEXT="ArchiMate Modeling base on Sparx EA Introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1726024151411"><hook NAME="MapStyle" background="#f5f5dc" zoom="0.95345014">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_sepia_template.mm"/>
 
 <map_styles>
@@ -80,7 +80,7 @@
 <node TEXT="01 Organization" POSITION="bottom_or_right" ID="ID_349387977" CREATED="1726024722364" MODIFIED="1726024743785"/>
 <node TEXT="02 Business Process Cooperation" POSITION="bottom_or_right" ID="ID_1363044328" CREATED="1726024743950" MODIFIED="1726024755456"/>
 <node TEXT="03 Product" POSITION="bottom_or_right" ID="ID_1605347505" CREATED="1726024755614" MODIFIED="1726024758359"/>
-<node TEXT="04 Application Coorperation" POSITION="bottom_or_right" ID="ID_301377610" CREATED="1726024758513" MODIFIED="1726024767735"/>
+<node TEXT="04 Application Cooperation" POSITION="bottom_or_right" ID="ID_301377610" CREATED="1726024758513" MODIFIED="1726229845162"/>
 <node TEXT="05 Application Usage" POSITION="bottom_or_right" ID="ID_1898042333" CREATED="1726024767911" MODIFIED="1726024772998"/>
 <node TEXT="06 Impelmentation and Deployment" POSITION="bottom_or_right" ID="ID_1882795384" CREATED="1726024773118" MODIFIED="1726024778929"/>
 <node TEXT="07 Technology" POSITION="bottom_or_right" ID="ID_627027407" CREATED="1726024779100" MODIFIED="1726024782544"/>
@@ -104,7 +104,7 @@
 <node TEXT="21 Resource Map" ID="ID_455959056" CREATED="1726024884870" MODIFIED="1726024888643"/>
 <node TEXT="22 Outcome Realization" ID="ID_444724166" CREATED="1726024888776" MODIFIED="1726024894264"/>
 </node>
-<node TEXT="Implementation and Migration Viewpoints" POSITION="bottom_or_right" ID="ID_649432027" CREATED="1726024713527" MODIFIED="1726024721930">
+<node TEXT="Implementation and Migration Viewpoints" FOLDED="true" POSITION="bottom_or_right" ID="ID_649432027" CREATED="1726024713527" MODIFIED="1726024721930">
 <node TEXT="23 Project" ID="ID_1195733018" CREATED="1726024901672" MODIFIED="1726024913721"/>
 <node TEXT="24 Migration" ID="ID_1630208646" CREATED="1726024914463" MODIFIED="1726024917319"/>
 <node TEXT="25 Implementation and Migration" ID="ID_1338091735" CREATED="1726024917487" MODIFIED="1726024927688"/>
