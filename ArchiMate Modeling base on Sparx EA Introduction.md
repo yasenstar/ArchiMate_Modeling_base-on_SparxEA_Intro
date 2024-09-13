@@ -8,7 +8,7 @@
 
 ## 03 Product
 
-## 04 Application Coorperation
+## 04 Application Cooperation
 
 ## 05 Application Usage
 
