@@ -4,6 +4,10 @@ Sparx Systems EA (Enterprise Architec) tool is one modeling tool for architects 
 
 Here I'd like to use [Archi](https://archimatetool.com/) - the open source ArchiMate modeling tool, to build those diagrams one by one and demo / share with you how to perform those different layers modeling.
 
+Course structure per below mindmap:
+
+![structure](img/ArchiMate-Tutorial-Structure.png)
+
 Thanks for [Sparx Systems](https://sparxsystems.com/) for providing this nice resource.
 
 Enjoy!
