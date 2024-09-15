@@ -13,6 +13,7 @@
     <element xsi:type="archimate:Material" name="Material A" id="id-85ecd1ac1552481e8343231d9580ef29"/>
     <element xsi:type="archimate:CommunicationNetwork" name="Communication Network A" id="id-9558a3b1e5014be2a3991973567fd867"/>
     <element xsi:type="archimate:DistributionNetwork" name="Distribution Network A" id="id-42956583eabf40249037776bfd081bca"/>
+    <element xsi:type="archimate:Path" name="Path" id="id-3815d532355a418088c105127638b864"/>
   </folder>
   <folder name="Motivation" id="id-7f99ec82873f4fce952313309b3c6ef0" type="motivation"/>
   <folder name="Implementation &amp; Migration" id="id-9929b60c8a114703b27a881bb1abb57d" type="implementation_migration"/>
@@ -86,6 +87,9 @@
         <child xsi:type="archimate:DiagramObject" id="id-17f7f147496b4fcaabc0dd0a0cf2a1e0" targetConnections="id-b0ff443b59a341149476ef027c47b25d id-6860a86b05ef4a1fa588115a19455b92" archimateElement="id-b9c19c0576a9406eb532d15062c54d8f">
           <bounds x="36" y="36" width="120" height="55"/>
         </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-2c98fa5236cb4541bc85e6f92eb09a69" archimateElement="id-3815d532355a418088c105127638b864">
+        <bounds x="437" y="648" width="120" height="55"/>
       </child>
     </element>
   </folder>
