@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="16_Principle-Example" id="id-0627d80b73d146e981b13ed00e87ae9c" version="5.0.0">
+  <folder name="Strategy" id="id-908653e830a6405aabe7195edffe2d79" type="strategy"/>
+  <folder name="Business" id="id-f3821a178972426fbcbf07f49a3ebccc" type="business"/>
+  <folder name="Application" id="id-84ba092d952e4f11ac6077a5edb86e98" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-cfabf95ffa9f44ae800e08ee01a29ddc" type="technology"/>
+  <folder name="Motivation" id="id-1986b51b3e7244ceb0ea63d919536398" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-ff0d84c0083648bdb393d2bb13b1b277" type="implementation_migration"/>
+  <folder name="Other" id="id-e2ef6f79036444f6a4bceedaf7b4057b" type="other"/>
+  <folder name="Relations" id="id-c8dbfc1093234ccf8fe1db718fd60bfc" type="relations"/>
+  <folder name="Views" id="id-1e877ac161b44ae696365264d43ea289" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="16_Principle-Example" id="id-9b2d15d8b27e45bfb2e37ea21aba6120"/>
+  </folder>
+</archimate:model>
