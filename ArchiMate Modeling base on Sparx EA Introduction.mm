@@ -93,7 +93,66 @@
 <node TEXT="Motivation Viewpoint" POSITION="bottom_or_right" ID="ID_169212183" CREATED="1726024703567" MODIFIED="1726024708917">
 <node TEXT="13 Stakeholder" ID="ID_1102134672" CREATED="1726024808252" MODIFIED="1726024812880"/>
 <node TEXT="14 Goal Realization" ID="ID_1004721397" CREATED="1726024813015" MODIFIED="1726024817335"/>
-<node TEXT="15 Goal Contribution" ID="ID_1982888972" CREATED="1726024828543" MODIFIED="1726024833463"/>
+<node TEXT="15 Goal Contribution" ID="ID_1982888972" CREATED="1726024828543" MODIFIED="1726413378463" LINK="https://20.56.27.52/templates/goalcontributionviewpoint-archimate/"><richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Goal Contribution Viewpoint:ArchiMate
+    </p>
+    <p>
+      https://20.56.27.52/templates/goalcontributionviewpoint-archimate/
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Purpose: The Goal Contribution Viewpoint in ArchiMate is used to model how business goals are related to each other and how they contribute to the overall business strategy of an enterprise. The purpose of this viewpoint is to provide a clear understanding of the relationships between goals and how they align with the enterprise’s overall objectives. This can help organizations prioritize their goals and ensure that they are working towards their strategic objectives.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Core Concerns: The core concerns of the Goal Contribution Viewpoint include modeling the relationships between business goals, the contributions that each goal makes towards the overall strategy, and the measures used to assess progress towards the goals. By focusing on these core concerns, the Goal Contribution Viewpoint can help organizations identify opportunities for improving their strategy and ensuring that their goals are aligned with their overall business objectives.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      The Goal Contribution Viewpoint is a perspective in the ArchiMate enterprise architecture modeling language that focuses on the relationships between business goals and how they contribute to the overall strategy of an enterprise. In this viewpoint, goals are represented as ovals with labels that describe their purpose and significance. Relationships between goals are shown as lines connecting the goals, with labels that describe the nature of the relationship.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      The Goal Contribution Viewpoint includes several concepts for modeling different aspects of goal contribution, including:
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Goal Dependencies: Goal dependencies are used to show how one goal contributes to another goal. This can help organizations understand how achieving one goal may impact the achievement of another goal.
+      </li>
+      <li>
+        Goal Decomposition: Goal decomposition is used to break down high-level goals into more specific, measurable objectives. This can help organizations track progress towards their goals and assess whether they are on track to achieve their strategic objectives.
+      </li>
+      <li>
+        Goal Measures: Goal measures are used to assess progress towards goals. This can help organizations determine whether they are making progress towards their goals and whether any adjustments need to be made to their strategy.
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Overall, the Goal Contribution Viewpoint is useful for modeling the relationships between business goals and ensuring that they are aligned with the overall strategy of an enterprise. By providing a clear understanding of how goals contribute to the enterprise’s strategic objectives, organizations can prioritize their goals and ensure that they are working towards their strategic objectives.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node TEXT="16 Principles Viewpoint" ID="ID_540585105" CREATED="1726024833623" MODIFIED="1726024843631"/>
 <node TEXT="17 Requirements Realization" ID="ID_204484108" CREATED="1726024843782" MODIFIED="1726024849113"/>
 <node TEXT="18 Motivation" ID="ID_887924714" CREATED="1726024849266" MODIFIED="1726024852334"/>
