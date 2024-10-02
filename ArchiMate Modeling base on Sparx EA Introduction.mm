@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="ArchiMate Modeling base on Sparx EA Introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1726024151411"><hook NAME="MapStyle" background="#f5f5dc" zoom="1.0194654">
+<node TEXT="ArchiMate Modeling base on Sparx EA Introduction" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1726024151411"><hook NAME="MapStyle" background="#f5f5dc" zoom="0.6034986">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_sepia_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -76,7 +76,7 @@
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<node TEXT="Basic Viewpoints" FOLDED="true" POSITION="bottom_or_right" ID="ID_671918920" CREATED="1726024695118" MODIFIED="1726024702783">
+<node TEXT="Basic Viewpoints" POSITION="bottom_or_right" ID="ID_671918920" CREATED="1726024695118" MODIFIED="1726024702783">
 <node TEXT="01 Organization" POSITION="bottom_or_right" ID="ID_349387977" CREATED="1726024722364" MODIFIED="1726024743785"/>
 <node TEXT="02 Business Process Cooperation" POSITION="bottom_or_right" ID="ID_1363044328" CREATED="1726024743950" MODIFIED="1726024755456"/>
 <node TEXT="03 Product" POSITION="bottom_or_right" ID="ID_1605347505" CREATED="1726024755614" MODIFIED="1726024758359"/>
@@ -90,7 +90,7 @@
 <node TEXT="11 Physical" POSITION="bottom_or_right" ID="ID_1739416995" CREATED="1726024800547" MODIFIED="1726024803343"/>
 <node TEXT="12 Layered" POSITION="bottom_or_right" ID="ID_1456861138" CREATED="1726024803485" MODIFIED="1726024806415"/>
 </node>
-<node TEXT="Motivation Viewpoint" FOLDED="true" POSITION="bottom_or_right" ID="ID_169212183" CREATED="1726024703567" MODIFIED="1726024708917">
+<node TEXT="Motivation Viewpoint" POSITION="bottom_or_right" ID="ID_169212183" CREATED="1726024703567" MODIFIED="1726024708917">
 <node TEXT="13 Stakeholder" ID="ID_1102134672" CREATED="1726024808252" MODIFIED="1726024812880"/>
 <node TEXT="14 Goal Realization" ID="ID_1004721397" CREATED="1726024813015" MODIFIED="1726024817335"/>
 <node TEXT="15 Goal Contribution" ID="ID_1982888972" CREATED="1726024828543" MODIFIED="1726413378463" LINK="https://20.56.27.52/templates/goalcontributionviewpoint-archimate/"><richcontent TYPE="NOTE">
